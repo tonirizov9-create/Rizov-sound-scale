@@ -30,3 +30,4 @@ jobs:
         with:
           name: Rizov-Sound-Scale-APK
           path: project/RizovSoundScale/app/build/outputs/apk/debug/*.apk
+# Build APK workflow
